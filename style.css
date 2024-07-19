@@ -1,0 +1,44 @@
+.capital{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: smaller;
+    margin: 0.5px;
+}
+body{
+    border: 5px double black;
+    padding: 0px;
+    text-align: center;
+}
+html{
+    font-size: 62.5%;
+}
+.para-one{
+    font-size: 1.5rem;
+}
+.para-two{
+    font-size: 3rem;
+}
+.para-three{
+    font-size: 1.79rem;
+}
+.border{
+    border: 5px 0px 3px solid black;
+}
+li{
+    display: inline;
+    margin-right: 20px;
+    font-size: 1.5rem;
+}
+/* .center{
+    text-align: center;
+} */
+hr{
+    border: 1.5px solid black;
+    margin: 20px;
+}
+.text-red{
+    color: red;
+}
+.size{
+    font-size: 2rem;
+}
